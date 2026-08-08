@@ -1,8 +1,8 @@
 #include<iostream>
-using namspace std;
+using namespace std;
 int main() {
   int n,f=1,i;
-  cout<<'Enter a number: ";
+  cout<<"Enter a number: ";
   cin>>n;
   i=n;
   while(i>0) {
