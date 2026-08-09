@@ -23,8 +23,3 @@ namespace vaishnavi {
         return sub;
     }
 }
-int main() {
-    cout<<"Sum = "<<vaishnavi::sum()<<endl;
-    cout<<"Sub = "<<vaishnavi::sub()<<endl;
-    return 0;
-}

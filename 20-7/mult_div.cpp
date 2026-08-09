@@ -26,8 +26,3 @@ namespace vaishnavi {
         return div;
     }
 }
-int main() {
-    cout<<"Mult= "<<vaishnavi::mult()<<endl;
-    cout<<"Div= "<<vaishnavi::div()<<endl;
-    return 0;
-}
