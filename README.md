@@ -1,1 +1,1 @@
-this file is created for c programs.
+This file is created for OOC lab programs.
